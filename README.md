@@ -7,6 +7,12 @@ The performance of boosted trees is compared to simple baselines.
 
 The entire work, including the results of the study and the cleaning of data, is summarized in the `FinalReport.pdf` file. 
 
+<p align="center">
+  <span style="display: inline-block; text-align: center; margin: 0 10px;">
+    <img src="Overview.png"/>
+  </span>
+</p>
+
 ## Data
 
 The project required an exploratory analysis of the data and cleaning. The raw data is taken from: https://datadryad.org/dataset/doi:10.5061/dryad.m0cfxpp2c
